@@ -1,10 +1,7 @@
 # Advanced Biostatistics Hands-on
 
 scopes:
-  * Linear Regression 
-  * Logistic Regression 
-  * Support Vector Machine
-  * Gradient Boosting (AdaBoost)
+  * Linear Regression and logistic regression
   * to be added ... 
   
-(colab link)[https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/master]
+(colab link)[https://colab.research.google.com/github.com/nus-mornin-lab/Advanced-Biostatistics-Hands-On/tree/SPH6004/2022]
