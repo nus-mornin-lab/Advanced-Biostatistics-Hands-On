@@ -4,4 +4,5 @@ scopes:
   * Linear Regression and logistic regression
   * to be added ... 
   
-(colab link)[https://colab.research.google.com/github.com/nus-mornin-lab/Advanced-Biostatistics-Hands-On/tree/SPH6004/2022]
+colab links
+1.  https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/SPH6004%2F2022/Hands_On_1.ipynb
