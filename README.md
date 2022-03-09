@@ -4,6 +4,7 @@ scopes:
   * Linear Regression and logistic regression
   * Tree based models
   * SVM models
+  * Transformer
   * to be added ... 
   
 colab links
@@ -12,3 +13,5 @@ colab links
 2.  https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/SPH6004%2F2022/Hands_On_2.ipynb
 
 3.  https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/SPH6004%2F2022/Hands_On_3.ipynb
+
+4.  https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/SPH6004%2F2022/Hands_On_4_Transformer_Model.ipynb
