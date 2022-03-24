@@ -4,7 +4,7 @@ scopes:
   * Linear Regression and logistic regression
   * Tree based models
   * SVM models
-  * Transformer
+  * NLP and transformer
   * to be added ... 
   
 colab links
