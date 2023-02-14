@@ -5,4 +5,4 @@ List of contents:
   * to be added ... 
   
 colab links
-1.  TBD
+https://colab.research.google.com/github/nus-mornin-lab/Advanced-Biostatistics-Hands-On/blob/SPH6004%2F2022/Hands_On_1.ipynb
